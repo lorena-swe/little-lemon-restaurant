@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/little-lemon-restaurant/static/css/main.99ef2821.css",
-    "main.js": "/little-lemon-restaurant/static/js/main.6a5d9477.js",
+    "main.js": "/little-lemon-restaurant/static/js/main.d8698cd4.js",
     "static/media/greek salad.jpg": "/little-lemon-restaurant/static/media/greek salad.bed423a1fab5b210e347.jpg",
     "static/media/restauranfood.jpg": "/little-lemon-restaurant/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
     "static/media/bistrot_1.jpg": "/little-lemon-restaurant/static/media/bistrot_1.4232af364e8af86032a2.jpg",
@@ -20,18 +20,20 @@
     "static/media/chloe_kala.jpg": "/little-lemon-restaurant/static/media/chloe_kala.3265947b93222073f45b.jpg",
     "static/media/davide.jpg": "/little-lemon-restaurant/static/media/davide.cc3ae5586a9b51c76546.jpg",
     "static/media/bruschetta.jpg": "/little-lemon-restaurant/static/media/bruschetta.16d6ccbad3536c2d7979.jpg",
+    "static/media/Logo.svg": "/little-lemon-restaurant/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
     "static/media/cheesecake.jpg": "/little-lemon-restaurant/static/media/cheesecake.825923f15595e442c06a.jpg",
     "static/media/Asset 9@4x.png": "/little-lemon-restaurant/static/media/Asset 9@4x.b8445110e4e49b6b30a0.png",
     "static/media/slick.svg": "/little-lemon-restaurant/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/little-lemon-restaurant/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/little-lemon-restaurant/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/little-lemon-restaurant/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Basket.svg": "/little-lemon-restaurant/static/media/Basket.fae9b50adb46a3bfa9273d6c25dc3935.svg",
     "index.html": "/little-lemon-restaurant/index.html",
     "main.99ef2821.css.map": "/little-lemon-restaurant/static/css/main.99ef2821.css.map",
-    "main.6a5d9477.js.map": "/little-lemon-restaurant/static/js/main.6a5d9477.js.map"
+    "main.d8698cd4.js.map": "/little-lemon-restaurant/static/js/main.d8698cd4.js.map"
   },
   "entrypoints": [
     "static/css/main.99ef2821.css",
-    "static/js/main.6a5d9477.js"
+    "static/js/main.d8698cd4.js"
   ]
 }

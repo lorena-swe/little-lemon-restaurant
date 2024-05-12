@@ -7,6 +7,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import BookingPage from './components/BookingPage';
 import Reservations from './components/Reservations';
+import Menu from './components/Menu';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path='/update' element={<Update />}></Route> */}
         <Route path="/booking-page" element={<BookingPage />}></Route>
         <Route path="/reservations" element={<Reservations />}></Route>
+        <Route path="/menu" element={<Menu />}></Route>
       </Routes>
       <Footer />
     </div>

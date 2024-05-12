@@ -1,6 +1,7 @@
 import '../App.css'
 import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react'
+import { Link } from "react-router-dom"
 import 'swiper/css'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
@@ -44,7 +45,7 @@ function HighlightsSection () {
 
       <div className='highlights-header'>
         <h2 className='highlights-title'>This Week's Specials</h2>
-        <a className='menu-btn' href="/menu" role="button">Menu</a>
+        <a className='menu-btn' href="/menu" role="button"><Link to='/menu' className='nav-link'>Menu</Link></a>
       </div>
 
       <Swiper

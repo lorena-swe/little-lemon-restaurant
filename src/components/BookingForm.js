@@ -141,7 +141,7 @@ function BookingForm(props) {
         console.log('storedData', JSON.parse(JSON.stringify(storedData)))
 
         // Display confirmation toast
-        toast.success('The reservation was submitted successfully!')
+        toast.success('The reservation was submitted successfully! 🍋\nYou can review its details in the "Reservations"tab.')
       }
 
       return formData

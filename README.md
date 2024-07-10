@@ -20,43 +20,50 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!--
-   <a href="https://github.com/Fav8/groupay">
-    <img src="client/groupay-client/src/img/groupay_screen2.png">
-  </a>
--->
 
-This project was built as the final project for Meta's Frontend Engineer certificate.
-It was my first time using React, yet it felt like home due to my experience in Salesforce Lightning. I even went ahead and built way more functionalities than what was required to complete the certificate's courses!
+This project was built as the final project for Meta's Frontend Engineer certificate. I also went ahead and built way more functionalities than what was required to complete the certificate's courses!
 
+### Features
 
-
+- **Booking System**: Allows users to book a table at a specific restaurant location, choosing between different time slots and adding personalized notes.
+- **Reservations Page**: Allows users to review all their reservations, with the possibility of deleting them.
+- **Multiple Pages**: Uses React Router to navigate between different pages such as the main page, booking page, and reservations page.
 
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Firebase](https://firebase.google.com/)
-* JavaScript
-* HTML & CSS
-
+- [React.js](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- JavaScript
+- HTML & CSS
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running, follow these simple example steps.
-* Clone the repo
-* Run npm install
+To get a local copy up and running, follow these simple example steps:
+
+### Prerequisites
+
+Ensure you have npm installed:
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone the repo
+  ```sh
+  git clone https://github.com/lorena-swe/little-lemon-restaurant.git
+  ```
+2. Install NPM Packages
   ```sh
   npm install
   ```
- * Run the app in development mode:
-   ```sh
-   npm start
-   ```
-   Open [http://localhost:3000](http://localhost:3000) (port number might differ) to view it in your browser.
-   <br />
-   The page will reload as you make changes to che code.
+3. Run the app in development mode
+  ```sh
+  npm start
+  ```
+4. Open [http://localhost:3000](http://localhost:3000) (port number might differ) to view it in your browser. The page will reload as you make changes to the code.
 
 <br />
 
